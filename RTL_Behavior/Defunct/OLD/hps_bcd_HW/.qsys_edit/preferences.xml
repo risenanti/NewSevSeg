@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+ <debug showDebugMenu="0" />
+ <systemtable filter="All Interfaces">
+  <columns>
+   <connections preferredWidth="223" />
+   <irq preferredWidth="47" />
+   <export preferredWidth="283" />
+  </columns>
+ </systemtable>
+ <library
+   expandedCategories="Library/Basic Functions,Library/University Program,Library,Library/Basic Functions/Bridges and Adaptors,Library/Basic Functions/On Chip Memory,Project,Library/Basic Functions/Configuration and Programming,Library/Basic Functions/Bridges and Adaptors/Memory Mapped,Library/Interface Protocols/Serial,Library/University Program/Generic IO,Library/Interface Protocols" />
+ <window width="1922" height="1055" x="1279" y="0" />
+ <hdlexample language="VERILOG" />
+</preferences>
